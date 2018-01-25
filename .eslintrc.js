@@ -42,6 +42,7 @@ module.exports = {
         "vue/no-parsing-error": [2, {
             "x-invalid-end-tag": false,
         }],
-        "vue/script-indent": "off"
+        "vue/script-indent": "off",
+        "vue/html-quotes" : [2, "double"]
     }
 };
